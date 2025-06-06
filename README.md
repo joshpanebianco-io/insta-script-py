@@ -29,9 +29,3 @@ This script uses the **data download** method provided by Instagram:
 - Python 3.x
 - Your downloaded Instagram data from [Instagram Data Download](https://www.instagram.com/download/request/)
 
----
-
-## ⚙️ Usage
-
-```bash
-python find_nonfollowers.py
